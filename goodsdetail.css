@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background:rgba(246,246,246);}
+
+.product{
+	margin-top:10px;
+	height:220px;
+
+	}
+	
+.product left small{
+	width:100px;
+	height:200px;
+	background-color:#FFF;}
+
+.product left big{
+	width:200px;
+	height:200px;
+	background-color:#0F6;}
+	
+.product right{}
+
